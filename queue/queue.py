@@ -2,7 +2,7 @@
 Author: Tony Code
 """
 
-class queue:
+class Queue:
     """
     A basic data structure that obey the rule "First In First Out"
     """

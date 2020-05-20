@@ -2,7 +2,7 @@
 Author: Tony Code
 """
 
-class stack:
+class Stack:
     """
     A basic data structure that obey the rule "First In Last Out"
     """
